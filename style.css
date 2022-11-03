@@ -1,0 +1,85 @@
+body{
+
+text-align: center;
+margin: 0;
+background-image: url(./mountains-g8db532b5e_640.png);
+background-size: cover;
+
+}
+
+.menu{
+position: fixed;
+width: 100%;
+background-color: blueviolet;
+margin-top: 0px;
+
+}
+
+.links{
+display: inline;
+font-size: 25px;
+margin-left: 20px;
+margin-right: 30px;
+
+
+}
+
+a{
+
+color: white;
+text-decoration: none;
+text-shadow: 2px 2px 2px red;
+
+}
+
+.links:hover{
+    font-size: 30px;
+text-decoration: underline;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.profile{
+
+    margin-top: 70px;
+    width: 500px;
+}
+
+#name{
+
+    font-family: 'Fasthand', cursive;;
+font-size: 50px ;
+
+}
+
+#welcome{
+
+    background: linear-gradient( to bottom right, aqua, rgb(48, 207, 48));
+
+}
+
+.line{
+
+    height: 6px;
+    background-color: black;
+width: 70px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.contact_1 a{
+
+text-shadow: none;
+
+
+}
+
+.contact_1 h3{
+
+    display: inline;
+
+}
